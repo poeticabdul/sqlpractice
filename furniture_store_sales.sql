@@ -1,9 +1,7 @@
 /*
 Furniture store sales data gotten from https://gist.github.com/pamelafox/791ce9e4eb31abce2362
-
 Inspired by Khan Academy course on SQL > https://www.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries/pp/project-data-dig
 */
-
 
 
 /* === What are average, max, and min values in the data? === */
